@@ -1,0 +1,16 @@
+{
+  "UtilityHeader": "\r\n****Welcome to Asendia Parcel Scraper Utility****\r\n",
+  "EnterPath": "\r\nPlease enter path to scan CSV files\r\n",
+  "NoValidPath": "\r\nPath does not exist, enter valid path\r\n",
+  "NoCSVFiles": "\r\nNo CSV files available in the entered directory\r\n",
+  "EmptyCSVFile": "\r\nNo data in CSV files available in the entered directory\r\n",
+  "XMLFileSaved": "\r\nXML with data extracted from CSV files is saved in the same directory\r\n",
+  "Success": "Operation is successful",
+  "Failed": "Operation failed",
+  "OperationStarted": "Load CSV Data operation: Started",
+  "OperationFinished": "Load CSV Data operation: Finished",
+  "CreatingXMLStarted": "Creating XML file with CSV Data: Started",
+  "CreatingXMLFinished": "Creating XML file with CSV Data: Finished",
+  "DataConversionStarted": "Converting retrieved data from CSVs to XML format: Started",
+  "DataConversionFinished": "Converting retrieved data from CSVs to XML format: Finished"
+}
